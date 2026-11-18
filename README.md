@@ -24,12 +24,10 @@ Every project below has tests and CI, and each web app has a live demo you can o
 | Project | What it is | Notes |
 | --- | --- | --- |
 | [pulse-crm](https://github.com/kfairy9999/pulse-crm) · [live demo](https://pulse-crm.kfairley9999.workers.dev/demo) | A single-owner CRM: contacts, a six-stage pipeline, tasks, and reports, on Workers and D1 with its own sign-in. | The demo runs the real CRM handlers in your browser against fictional sample data, so it never touches the private workspace. 82 tests. |
-| [Veo-3D-Architect](https://github.com/kfairy9999/Veo-3D-Architect) · [live demo](https://veo-3d-architect.kfairley9999.workers.dev) | Turns up to three reference photos and a shot description into an 8-second video with xAI Grok Imagine. | The key stays on the Worker, and a Durable Object enforces a hard daily render cap. Live rendering is off until a key is added, and the page says so. 30 tests. |
 | [EquiFlow-Stock-App](https://github.com/kfairy9999/EquiFlow-Stock-App) · [live demo](https://equiflow.kfairley9999.workers.dev) | A stock-tape dashboard with a moving average, drift alerts, and an optional Grok read of the tape. | Prices are simulated in the browser and labeled that way. Not investment advice. |
 
 ## Background
 
-- U.S. Marine Corps, 2010–2014
 - Data & Workflow Specialist at Solvis Corp (2024–present). Earlier work in IT and server management.
 - Bilingual: English and Spanish
 
