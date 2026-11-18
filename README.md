@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Fairley
 
-U.S. Marine Corps veteran in Los Angeles. I build AI agents, LLM tooling, and automation in **Python, TypeScript, and Rust**. I'm open to roles in agentic AI and LLM engineering.
+Living in Los Angeles. I build AI agents, LLM tooling, and automation in **Python, TypeScript, and Rust**. I'm open to roles in agentic AI and LLM engineering.
 
 Every project below has tests and CI, and each web app has a live demo you can open without an account. When a demo runs without a model key, the page says so and labels its sample output as sample output.
 
